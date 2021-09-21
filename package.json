@@ -1,0 +1,21 @@
+{
+  "name": "testing-celo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git+https://github.com/yeabu369/testing-celo.git",
+  "keywords": [],
+  "author": "yeabu369 <yeabsdebe@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeabu369/testing-celo/issues"
+  },
+  "homepage": "https://github.com/yeabu369/testing-celo#readme",
+  "dependencies": {
+    "@celo/contractkit": "^1.2.5"
+  }
+}
